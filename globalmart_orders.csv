@@ -1,7 +1,7 @@
 Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Segment,Region,Category,Sub_Category,Product_Name,Quantity,Discount,Sales,Profit
 ORD-00052,2024-09-30,2024-10-04,Express,CUST-6138,Home Office,East,Furniture,Tables,Round Table,2,0.1,1007.99,38.84
 ORD-00977,2023-04-24,2023-04-30,Standard,CUST-6413,Consumer,South,Furniture,Chairs,Ergonomic Chair,5,0.4,3520.87,-334.46
-ORD-00185,2023-07-31,2023-08-07,Standard,CUST-3664,Consumer,West,Furniture,Tables,Folding Table,2,0.0,1426.86,35.77
+ORD-00185,2023-07-31,2023-08-07,Standard,CUST-3664,Consumer,West,Furniture,Tables,Folding Table,2,0.0,1426.86,35.77 
 ORD-01002,11/11/2023,11/18/2023,Standard,CUST-2084,Corporate,Central,Technology,Phones,Samsung Galaxy,2,0.2,1552.25,-261.49
 ORD-00747,2024-08-26,2024-09-02,Standard,CUST-4432,Consumer,East,Furniture,Storage,Storage Bin,2,0.0,972.65,-22.77
 ORD-01010,2024-07-24,2024-07-31,Standard,CUST-6107,Corporate,Central,Technology,Computers,HP Spectre,3,0.2,777.39,-73.94
